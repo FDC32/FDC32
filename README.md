@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on learning what makes Developers tick
 - 📫 How to reach me ...hannah.blake@mab.org.uk
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have a staffordshire bull terrier called Peggy. Peggy Mitchell of the sopa opera Eastenders first appeared on TV on my exact birthday. She is Peggy reincarnated 
+- ⚡ Fun fact: I have a staffordshire bull terrier called Peggy. Peggy Mitchell of the soap opera Eastenders first appeared on TV on my exact birthday. She is Peggy reincarnated 
 
 <!---
 FDC32/FDC32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
